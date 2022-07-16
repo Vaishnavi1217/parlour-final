@@ -1,0 +1,163 @@
+body {
+    font-family: 'poppins';
+}
+h3 {
+    position: absolute;
+    width: 276px;
+    height: 25px;
+    left: 45px;
+    top: 29px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 13px;
+    letter-spacing: 0.4px;
+    color: #544A0C;
+}
+.arrow {
+    box-sizing: border-box;
+    float: left;
+    position: absolute;
+    width: 21px;
+    height: 20px;
+    left:16px;
+    top: 51px;
+}
+#pal {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 19px;
+    top: 17px;
+    background: url(174861.png);
+}
+.paypal {
+    box-sizing: border-box;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 241px;
+    top: 24px;
+    border: 2px solid #EBB478;
+}
+.note1 {
+    position: absolute;
+    width: 137px;
+    height: 37px;
+    left: 81px;
+    top: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 27px;
+    color: #000000;
+}
+.div1 {
+    position: absolute;
+    width: 299px;
+    height: 73px;
+    left: 35px;
+    top: 109px;
+    background: #FFFFFF;
+    border: 1px solid #D0D0D0;
+    border-radius: 15px;
+}
+#gpay {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 19px;
+    top: 17px;
+    background: url(Google-Pay-Logo);
+    }
+.note2 {
+    position: absolute;
+    width: 137px;
+    height: 37px;
+    left: 81px;
+    top: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 27px;
+    color: #000000;
+}
+.googlepay {
+    box-sizing: border-box;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 241px;
+    top: 23px;
+    border: 2px solid #EBB478;
+}
+.div2 {
+    position: absolute;
+    width: 299px;
+    height: 73px;
+    left: 35px;
+    top: 199px;
+    
+    background: #FFFFFF;
+    border: 1px solid #D0D0D0;
+    border-radius: 15px;
+}
+#card {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 17px;
+    top: 17px;
+    background: url(mastercard-logo-mastercard-logo-png-vector-download-19);
+}
+.note3 {
+    position: absolute;
+    width: 154px;
+    height: 37px;
+    left: 81px;
+    top: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #000000;
+}
+.mastercard {
+    box-sizing: border-box;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 241px;
+    top: 23px;
+    border: 2px solid #EBB478;    
+}
+.div3 {
+    position: absolute;
+    width: 299px;
+    height: 73px;
+    left: 35px;
+    top: 289px;
+    background: #FFFFFF;
+    border: 1px solid #D0D0D0;
+    border-radius: 15px;
+}
+.pay {
+    position: absolute;
+    width: 303px;
+    height: 45px;
+    left: 30px;
+    top: 737px;
+    color: #FFFFFF;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    background: #544A0C;
+    border-radius: 30px;
+}

@@ -1,0 +1,288 @@
+.img{
+    position: absolute;
+    width: 364.4px;
+    height: 269.15px;
+    left: -0.87px;
+    top: 0px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(image.png);
+}
+.div1 {
+    position: absolute;
+    width: 364.4px;
+    height: 479.47px;
+    left: -1px;
+    top: 233px;
+    background: #FFFFFF;
+    border-radius: 26.1529px 26.1529px 0px 0px;
+}
+.home {
+    position: absolute;
+    width: 142.97px;
+    height: 60.15px;
+    left: calc(50% - 142.97px/2 - 132.52px);
+    top: calc(50% - 60.15px/2 - 209.92px);
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19.1875px;
+    line-height: 29px;
+    color: #544A0C;
+}
+.vector {
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    left: 14px;
+    top: 62px;
+    color: black;
+}
+#input {
+    position: absolute;
+    left: 14px;
+    right: 37px;
+    top:56px;
+    bottom: 257px;
+    width: 334px;
+    height: 28px;
+    background: #EDECEC;
+    border: 1px solid #DFDFDF;
+    border-radius: 15px;
+}
+.edit {
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    right: 14px;
+    top: 62px;
+    color: black;
+}
+.calender {
+    position: absolute;
+    width: 20.92px;
+    height: 20.92px;
+    left: 24.41px;
+    top: 117.88px;
+}
+#date {
+    position: absolute;
+    width: 303.37px;
+    height: 50.56px;
+    left: 54.92px;
+    top: 97.88px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16.0404px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #544A0C;   
+}
+.hr1 {
+    position: absolute;
+    width: 279.84px;
+    height: 0.0px;
+    left: 41.84px;
+    top: 92.14px;
+    background: #D0D0D0;
+    background: #D0D0D0;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.date1 {
+    position: absolute;
+    width: 60.15px;
+    height: 57.09px;
+    left: 48.82px;
+    top: 161.94px;
+    color: #FFFFFF;
+    background-color: #EBB478;
+    border-radius: 40px 40px 0px 40px;
+    border:#EBB478  solid 2px;
+}
+.date2 {
+    position: absolute;
+    width: 60.15px;
+    height: 57.09px;
+    left: 115.07px;
+    top: 161.94px;
+    color: #FFFFFF;
+    background-color: #EBB478;
+    border-radius: 40px 40px 0px 40px;
+    border:#EBB478  solid 2px;
+}
+.date3 {
+    position: absolute;
+    width: 60.15px;
+    height: 57.09px;
+    left: 181.32px;
+    top: 161.94px;    
+    color: #FFFFFF;
+    background-color: #EBB478;
+    border-radius: 40px 40px 0px 40px;
+    border:#EBB478  solid 2px;
+}
+.date4 {
+    position: absolute;
+    width: 60.15px;
+    height: 57.09px;
+    left: 247.58px;
+    top: 161.94px;    
+    color: #FFFFFF;
+    background-color: #EBB478;
+    border-radius: 40px 40px 0px 40px;
+    border:#EBB478  solid 2px;
+}
+h1 {
+    position: absolute;
+    width: 46.2px;
+    height: 13.95px;
+    left: 16.76px;
+    top: 8.35px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24.4094px;
+    line-height: 37px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+h6 {
+    position: absolute;
+    width: 46.2px;
+    height: 13.95px;
+    left: 2.3px;
+    bottom: 7.5px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9.5894px;
+    line-height: 14px;
+    text-align: center;
+    text-transform: uppercase;
+    color:#FFFFFF ;
+}
+.hr2 {
+    position: absolute;
+    width: 279.84px;
+    height: 0.17px;
+    left: 41.84px;
+    top: 234.34px;
+    background: #D0D0D0;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+#time {
+    position: absolute;
+    width: 303.37px;
+    height: 50.56px;
+    left: 54.92px;
+    top: 243.52px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16.0404px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #544A0C;
+}
+.time1 {
+    position: absolute;
+    width: 95.96px;
+    height: 42.77px;
+    left: calc(50% - 95.96px/2 - 117.46px);
+    top: calc(50% - 42.77px/2 + 119.72px);
+    background: #EBB478;
+    border: #EBB478 2px solid;
+    border-radius: 26.1529px;
+}
+.time2 {
+    position: absolute;
+    width: 95.96px;
+    height: 42.77px;
+    left: calc(50% - 95.96px/2 - 2.74px);
+    top: calc(50% - 42.77px/2 + 119.72px);
+    background: #EBB478;
+    border: #EBB478 2px solid;
+    border-radius: 26.1529px;
+}
+.time3 {
+    position: absolute;
+    width: 95.96px;
+    height: 42.77px;
+    left: calc(50% - 95.96px/2 + 114.84px);
+    top: calc(50% - 42.77px/2 + 119.72px);
+    background: #EBB478;
+    border: #EBB478 2px solid;
+    border-radius: 26.1529px;
+}
+.time4 {
+    position: absolute;
+    width: 95.96px;
+    height: 42.77px;
+    left: calc(50% - 95.96px/2 - 116.58px);
+    top: calc(50% - 42.77px/2 + 174.64px);
+    background: #EBB478;
+    border: #EBB478 2px solid;
+    border-radius: 26.1529px;
+}
+.time5 {
+    position: absolute;
+    width: 95.96px;
+    height: 42.77px;
+    left: calc(50% - 95.96px/2 - 0.87px);
+    top: calc(50% - 42.77px/2 + 174.64px);
+    background: #EBB478;
+    border: #EBB478 2px solid;
+    border-radius: 26.1529px;
+}
+.time6 {
+    position: absolute;
+    width: 95.96px;
+    height: 42.77px;
+    left: calc(50% - 95.96px/2 + 114.84px);
+    top: calc(50% - 42.77px/2 + 174.64px);
+    background: #EBB478;
+    border: #EBB478 2px solid;
+    border-radius: 26.1529px;
+}
+h3 {
+    position: absolute;
+    top: -4px;
+    width: 63px;
+    height: 18px;
+    left: 16.4px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15.0344px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.continue {
+    position: absolute;
+    width: 151px;
+    height: 38px;
+    left: 101px;
+    top: 502px;
+    
+    background: #544A0C;
+    border-radius: 30px;
+}
+h2 {
+    position: absolute;
+    width: 220px;
+    height: 44px;
+    left: -32px;
+    top: -6px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    
+    color:#FFFFFF ;
+    
+}

@@ -1,0 +1,129 @@
+.arrow {
+    position: absolute;
+    width: 21px;
+    height:20px;
+    left: 14px;
+    top: 49px;
+}
+.title {
+    position: absolute;
+    width: 360px;
+    height: 22px;
+    left: 0px;
+    top: 28px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 13px;
+    text-align: center;
+    letter-spacing: 0.4px;
+    color: #544A0C;
+}
+.profile_icon {
+    position: absolute;
+    width: 118px;
+    height: 118px;
+    left: 121px;
+    top: 97px;
+}
+.user {
+    position: absolute;
+    width: 20px;
+    height: 21px;
+    left: 14px;
+    top: 8px;
+}
+.div1 {
+    position: absolute;
+    left: 15px;
+    right: 36px;
+    top: 287px;
+    bottom: 472px;
+    
+    background: #EDECEC;
+    border-radius: 25px; 
+}
+.name {
+    padding: 0px;
+    position: absolute;
+    left: 35px;
+    right: 36px;
+    top: 1px;
+    bottom: 472px;
+    height: 34px;
+    width: 249px;
+    background: #EDECEC;
+    border: #EDECEC solid 1px;
+    border-radius: 25px;
+    text-align: center;
+    letter-spacing: 0.4px;
+}
+.vector {
+    position: absolute;
+    left: 30px;
+    right: 89.62%;
+    top: 363px;
+    bottom: 33.35%;
+}
+#phone {
+    position: absolute;
+left:20px;
+right: 0px;
+top: 354.82px;
+height: 34px;
+    width: 299px;
+text-align: center;
+background: #EDECEC;
+border: 1px solid #DFDFDF;
+border-radius: 25px;
+}
+.location {
+    position: absolute;
+    width: 40px;
+    height: 30px;
+    left: 24px;
+    top: 427px;
+    color: black;
+}
+#address {
+    position: absolute;
+    left: 24px;
+    right: 37px;
+    top: 416px;
+    bottom: 257px;
+    width: 299px;
+    background: #EDECEC;
+    border: 1px solid #DFDFDF;
+    border-radius: 15px;
+}
+.gender {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 34px;
+    top: 598px;
+}
+#gender {
+    position: absolute;
+    left: 25px;
+    right: 36px;
+    top: 592px;
+    height: 34px;
+    width: 299px;
+    
+    background: #EDECEC;
+    border: 1px solid #DFDFDF;
+    border-radius: 25px;
+}
+.continue {
+    position: absolute;
+    width: 299px;
+    height: 44px;
+    left: 35px;
+    top: 709px;
+    background: #544A0C;
+    color: #FFFFFF;
+    font-size: 20px;
+    border-radius: 25px;
+}
